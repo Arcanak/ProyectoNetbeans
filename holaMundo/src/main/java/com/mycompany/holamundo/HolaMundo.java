@@ -10,6 +10,7 @@ package com.mycompany.holamundo;
  * @author Diurno
  */
 public class HolaMundo {
+    public int tres;
     public static void Main(String[] args){
         System.out.println("Hola mundo");
         int bruh = 42;
